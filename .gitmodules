@@ -7,3 +7,9 @@
 [submodule "vim-better-whitespace"]
 	path = vim-better-whitespace
 	url = git@github.com:ntpeters/vim-better-whitespace.git
+[submodule "vim-dispatch"]
+	path = vim-dispatch
+	url = git@github.com:tpope/vim-dispatch.git
+[submodule "vimux"]
+	path = vimux
+	url = git@github.com:benmills/vimux.git
