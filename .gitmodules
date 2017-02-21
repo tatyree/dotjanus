@@ -13,3 +13,9 @@
 [submodule "vimux"]
 	path = vimux
 	url = git@github.com:benmills/vimux.git
+[submodule "vim-easy-align"]
+	path = vim-easy-align
+	url = git@github.com:junegunn/vim-easy-align.git
+[submodule "vim-rubocop"]
+	path = vim-rubocop
+	url = git@github.com:ngmy/vim-rubocop.git
